@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rookiecoder-chen/static/css/main.4be00efb.chunk.css",
+    "main.js": "/rookiecoder-chen/main.9ce3b595de60a9e3a070.bundle.js",
+    "main.css.map": "/rookiecoder-chen/static/css/main.4be00efb.chunk.css.map",
+    "main.js.map": "/rookiecoder-chen/main.9ce3b595de60a9e3a070.bundle.js.map",
+    "runtime~main.js": "/rookiecoder-chen/runtime~main.9ce3b595de60a9e3a070.bundle.js",
+    "runtime~main.js.map": "/rookiecoder-chen/runtime~main.9ce3b595de60a9e3a070.bundle.js.map",
+    "vendors~main.css": "/rookiecoder-chen/static/css/vendors~main.a6391bde.chunk.css",
+    "vendors~main.js": "/rookiecoder-chen/vendors~main.9ce3b595de60a9e3a070.bundle.js",
+    "vendors~main.css.map": "/rookiecoder-chen/static/css/vendors~main.a6391bde.chunk.css.map",
+    "vendors~main.js.map": "/rookiecoder-chen/vendors~main.9ce3b595de60a9e3a070.bundle.js.map",
+    "iframe.html": "/rookiecoder-chen/iframe.html",
+    "vendors~main.9ce3b595de60a9e3a070.bundle.js.LICENSE.txt": "/rookiecoder-chen/vendors~main.9ce3b595de60a9e3a070.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.9ce3b595de60a9e3a070.bundle.js",
+    "static/css/vendors~main.a6391bde.chunk.css",
+    "vendors~main.9ce3b595de60a9e3a070.bundle.js",
+    "static/css/main.4be00efb.chunk.css",
+    "main.9ce3b595de60a9e3a070.bundle.js"
+  ]
+}
